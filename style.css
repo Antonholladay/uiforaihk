@@ -1,0 +1,10 @@
+html {
+	background-image: url(./assets/background.jpeg);
+	background-position: center center;
+	background-repeat: no-repeat;	
+	background-size: inherit;
+}
+
+h1 {
+	text-align: center;
+}
